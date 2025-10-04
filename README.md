@@ -14,8 +14,11 @@ To solve the different kind of tasks, `C++` is used.
 /*
     Problem Name:
     Difficulty  :
+    Link        :
 */
-#include <iostream>
+#include<iostream>
+#include<vector>
+#include<algorithm>
 
 int main() {
     // Inputs
